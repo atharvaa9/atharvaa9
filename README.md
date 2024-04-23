@@ -1,4 +1,5 @@
-<p align="center"> <img width="80%" alt="Hello, I'm Atharva a Driven Security Professional & a Full-Stack Developer" src="" /> </p>
+<p align="center"><a href=""><img width="80%" alt="Hello, I'm Atharva a Driven Security Professional & a Full-Stack Developer" src="./assets/gh-readme-header.png" /></a></p>
+
 
 <br/>
 
