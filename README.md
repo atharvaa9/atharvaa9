@@ -14,13 +14,27 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 - ❤️ I love writing secure and efficient code 
 - 💬 Ask me anything [here](https://github.com/atharvaa9/atharvaa9/issues)
 
-### 💻 Skills
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+### 💼 Experience
+#### **Web Developer / Full Stack Developer**
+**Bright Mind Enrichment, USA**  |  **Jul 2024 - Present**
+- Led the design and development of the Bright Mind Wellness Portal using JavaScript, React.js, and Bootstrap, enhancing user engagement through an intuitive interface.
+- Architected backend solutions in Node.js with Express.js, ensuring efficient data handling for thousands of monthly users.
+- Implemented a secure authentication system using JWT to safeguard user data and privacy.
+
+#### **Graduate Assistant (Web Developer)**
+**Stevens Institute of Technology, USA**  |  **May 2023 - May 2024**
+- Collaborated with a team to design an interactive room selection platform, enhancing dynamic data visualization across devices.
+- Developed real-time communication features using WebSocket and Node.js for instant messaging and video conferencing.
+
+#### **Full Stack Developer**
+**KPMG, India**  |  **Jan 2021 - Jul 2022**
+- Designed an interactive financial analytics dashboard using React.js and Redux, reducing manual report creation by 30 hours per week.
+- Developed backend APIs using Node.js and Express.js to manage complex financial data, ensuring secure data transmission.
+
+#### **Frontend Developer**
+**Trigent Software, India**  |  **Jun 2020 - Dec 2020**
+- Architected a microservices-based back-end system using Node.js, reducing server response times significantly.
+- Spearheaded third-party payment integration with Stripe, processing over 1,000 daily transactions securely.
 
 ### 🚀 Project Experience
 - **Talent Hunt: A Job Application System**
@@ -35,6 +49,11 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
   - Streamlined user onboarding, increasing engagement by 18% through intuitive design ✨.
   - Developed backend infrastructure for seamless data integration, enhancing accuracy by 40%.
 
+- **Transactly: Secure & Fast Payments**
+  - Developed a full-stack digital wallet application using Next.js, Express.js, and PostgreSQL, enabling seamless transactions for over 1,000 simulated users.
+  - Integrated Prisma ORM to manage complex database relationships, reducing query execution time by 30%.
+  - Designed secure on-ramp transactions with bank web hook handlers to ensure transactional integrity.
+
 ### 🔧 Skills & Certifications
 - **Programming Languages**: Java, Python, JavaScript, TypeScript
 - **Frameworks**: React.js, Node.js, Express.js, Spring Boot
@@ -47,9 +66,9 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 - **Efficiency**: Reduced development cycles through optimized CI/CD pipelines and Docker deployments.
 
 ### 🔗 Connect with Me
-- **Portfolio**: [Atharva|Developer]([https://github.com/atharvaa9/](https://portfolio-atharva-parte.vercel.app/))
 - **GitHub**: [atharvaa9](https://github.com/atharvaa9/)
 - **LinkedIn**: [atharvaparte](https://www.linkedin.com/in/atharvaparte/)
+- **Portfolio**: [Portfolio](https://portfolio-atharva-parte.vercel.app/)
 - **Email**: [dev.atharvaparte@gmail.com](mailto:dev.atharvaparte@gmail.com)
 
 ### 🌐 Open Source Contributions
@@ -72,5 +91,3 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 ---
 
 Feel free to reach out if you have any questions or want to collaborate! Let's build something amazing together! 🚀
-
- 
