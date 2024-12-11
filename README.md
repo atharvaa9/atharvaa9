@@ -4,6 +4,18 @@
   </a>
 </p>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/atharvaparte/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dev.atharvaparte@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://portfolio-atharva-parte.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
 <br/>
 
 I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸. I have a strong focus on information security and enjoy building scalable APIs using Node.js & MongoDB while championing secure code through threat modeling.
@@ -91,6 +103,44 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 ### 🔒 Security Focus
 - Implemented comprehensive data security measures, including encryption and secure data protocols, ensuring compliance with international privacy standards.
 
+### 📸 Photo Gallery
+<div align="center">
+  <div class="photo-scroll" style="overflow-x: auto; white-space: nowrap; padding: 20px 0;">
+    <img src="./assets/fam.jpeg" alt="Header Image" style="height: 200px; margin-right: 10px; border-radius: 8px;">
+    <img src="./assets/grad.jpeg" alt="Header Image" style="height: 200px; margin-right: 10px; border-radius: 8px;"> 
+    <img src="./assets/grad2.jpeg" alt="Header Image" style="height: 200px; margin-right: 10px; border-radius: 8px;">
+    <img src="./assets/grad3.jpeg" alt="Header Image" style="height: 200px; margin-right: 10px; border-radius: 8px;">
+    <img src="./assets/grad4.jpeg" alt="Header Image" style="height: 200px; margin-right: 10px; border-radius: 8px;">
+    <img src="./assets/suit1.jpeg" alt="Header Image" style="height: 200px; margin-right: 10px; border-radius: 8px;">
+    <img src="./assets/suit2.jpeg" alt="Header Image" style="height: 200px; margin-right: 10px; border-radius: 8px;">
+    <!-- Add more images from your assets folder following the same pattern -->
+  </div>
+</div>
+
+<style>
+.photo-scroll {
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;  /* Firefox */
+}
+
+.photo-scroll::-webkit-scrollbar {
+  display: none;  /* Chrome, Safari, Edge */
+}
+
+.photo-scroll img {
+  transition: transform 0.3s ease;
+}
+
+.photo-scroll img:hover {
+  transform: scale(1.05);
+}
+</style>
+
 ---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Thanks_for_visiting!-🚀-blue" alt="Thanks Badge"/>
+  <p>Let's build something amazing together! 💻</p>
+</div>
 
 Feel free to reach out if you have any questions or want to collaborate! Let's build something amazing together! 🚀
