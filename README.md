@@ -120,62 +120,20 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 
 ### 📸 Photo Gallery
 <div align="center">
-  <div class="carousel-container">
-    <div class="carousel">
-      <img src="./assets/fam.jpeg" alt="Family Photo" class="carousel-image">
-      <img src="./assets/grad.jpeg" alt="Graduation Photo" class="carousel-image">
-      <img src="./assets/grad2.jpeg" alt="Graduation Photo 2" class="carousel-image">
-      <img src="./assets/grad3.jpeg" alt="Graduation Photo 3" class="carousel-image">
-      <img src="./assets/grad4.jpeg" alt="Graduation Photo 4" class="carousel-image">
-      <img src="./assets/suit1.jpeg" alt="Professional Photo" class="carousel-image">
-      <img src="./assets/suit2.jpeg" alt="Professional Photo 2" class="carousel-image">
-    </div>
-  </div>
+  <p float="left">
+    <img src="./assets/fam.jpeg" width="200" style="margin-right: 10px" />
+    <img src="./assets/grad.jpeg" width="200" style="margin-right: 10px" />
+    <img src="./assets/grad2.jpeg" width="200" style="margin-right: 10px" />
+  </p>
+  <p float="left">
+    <img src="./assets/grad3.jpeg" width="200" style="margin-right: 10px" />
+    <img src="./assets/grad4.jpeg" width="200" style="margin-right: 10px" />
+    <img src="./assets/suit1.jpeg" width="200" style="margin-right: 10px" />
+  </p>
+  <p float="left">
+    <img src="./assets/suit2.jpeg" width="200" />
+  </p>
 </div>
-
-<style>
-.carousel-container {
-  width: 100%;
-  max-width: 800px;
-  height: 250px;
-  overflow: hidden;
-  position: relative;
-  margin: 20px auto;
-}
-
-.carousel {
-  display: flex;
-  width: max-content;
-  animation: scroll 30s linear infinite;
-}
-
-.carousel-image {
-  width: 250px;
-  height: 250px;
-  object-fit: cover;
-  margin-right: 15px;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  transition: transform 0.3s ease;
-}
-
-.carousel-image:hover {
-  transform: scale(1.05);
-}
-
-.carousel:hover {
-  animation-play-state: paused;
-}
-
-@keyframes scroll {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(calc(-265px * 7)); /* Width + margin of images * number of images */
-  }
-}
-</style>
 
 ---
 
