@@ -136,8 +136,8 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 <style>
 .carousel-container {
   width: 100%;
-  max-width: 1200px;
-  height: 400px;
+  max-width: 800px;
+  height: 250px;
   overflow: hidden;
   position: relative;
   margin: 20px auto;
@@ -146,16 +146,21 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 .carousel {
   display: flex;
   width: max-content;
-  animation: scroll 20s linear infinite;
+  animation: scroll 30s linear infinite;
 }
 
 .carousel-image {
-  width: 400px;
-  height: 400px;
+  width: 250px;
+  height: 250px;
   object-fit: cover;
-  margin-right: 20px;
-  border-radius: 12px;
+  margin-right: 15px;
+  border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+
+.carousel-image:hover {
+  transform: scale(1.05);
 }
 
 .carousel:hover {
@@ -167,7 +172,7 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
     transform: translateX(0);
   }
   100% {
-    transform: translateX(calc(-400px * 4)); /* Adjust based on number of images */
+    transform: translateX(calc(-265px * 7)); /* Width + margin of images * number of images */
   }
 }
 </style>
