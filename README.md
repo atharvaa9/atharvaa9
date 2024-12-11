@@ -76,7 +76,9 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 
 ### 📊 GitHub Stats
 ![atharvaa9's Stats](https://github-readme-stats.vercel.app/api?username=atharvaa9&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&card_width=450)
+
 ![atharvaa9's Streak](https://github-readme-streak-stats.herokuapp.com/?user=atharvaa9&theme=tokyonight&hide_border=true&card_width=450)
+
 ![atharvaa9's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvaa9&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_width=450)
 
 
