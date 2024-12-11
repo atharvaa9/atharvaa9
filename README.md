@@ -18,17 +18,30 @@
 
 <br/>
 
-I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸. I have a strong focus on information security and enjoy building scalable APIs using Node.js & MongoDB while championing secure code through threat modeling.
+I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸. I have a strong focus on information security and full-stack development, specializing in React, React Native, and AWS cloud solutions.
 
 ### 🔍 About Me
-- 💼 **Graduate Assistant (Web Developer)** at [Stevens Institute of Technology](https://www.stevens.edu/)
+- 💼 **Software Developer** at [ThriveAI](https://thrivelabs.ai/)
 - 📈 **Master of Science in Computer Science** from Stevens Institute of Technology
-- ❤️ I love writing secure and efficient code 
+- 🔒 **Security-focused developer** with expertise in AWS cloud solutions
+- 🚀 Passionate about building scalable full-stack applications
+- 💡 Strong problem-solver with innovative approaches to complex challenges
+- 🌟 Experience with modern frameworks like React, React Native, and Node.js
+- ❤️ I love writing secure and efficient code
+- 🤝 Open to collaboration on interesting projects
 - 💬 Ask me anything [here](https://github.com/atharvaa9/atharvaa9/issues)
 
 ### 💼 Experience
+#### **Software Developer**
+**ThriveAI, USA**  |  **Oct 2024 - Present**
+- Developing and maintaining React Native mobile applications with seamless cross-platform functionality
+- Implementing real-time chat features and interactive UI components using React.js
+- Managing AWS cloud infrastructure and deployments
+- Building and optimizing backend services using Node.js
+- Implementing user engagement features like quiz systems and interactive chat interfaces
+
 #### **Web Developer / Full Stack Developer**
-**Bright Mind Enrichment, USA**  |  **Jul 2024 - Present**
+**Bright Mind Enrichment, USA**  |  **Jul 2024 - Oct 2024**
 - Led the design and development of the Bright Mind Wellness Portal using JavaScript, React.js, and Bootstrap, enhancing user engagement through an intuitive interface.
 - Architected backend solutions in Node.js with Express.js, ensuring efficient data handling for thousands of monthly users.
 - Implemented a secure authentication system using JWT to safeguard user data and privacy.
@@ -95,8 +108,10 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 
 
 ### 🛠️ Tools & Technologies
+- **Mobile Development**: React Native, iOS, Android
 - **Frontend**: React.js, Redux, Bootstrap, Tailwind CSS
 - **Backend**: Node.js, Express.js, Spring Boot
+- **Cloud**: AWS (extensive experience)
 - **Databases**: MongoDB, PostgreSQL
 - **DevOps**: Docker, Jenkins, GitLab CI/CD, Terraform
 
@@ -105,34 +120,55 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 
 ### 📸 Photo Gallery
 <div align="center">
-  <div class="photo-scroll" style="overflow-x: auto; white-space: nowrap; padding: 20px 0;">
-    <img src="./assets/fam.jpeg" alt="Header Image" style="height: 200px; margin-right: 10px; border-radius: 8px;">
-    <img src="./assets/grad.jpeg" alt="Header Image" style="height: 200px; margin-right: 10px; border-radius: 8px;"> 
-    <img src="./assets/grad2.jpeg" alt="Header Image" style="height: 200px; margin-right: 10px; border-radius: 8px;">
-    <img src="./assets/grad3.jpeg" alt="Header Image" style="height: 200px; margin-right: 10px; border-radius: 8px;">
-    <img src="./assets/grad4.jpeg" alt="Header Image" style="height: 200px; margin-right: 10px; border-radius: 8px;">
-    <img src="./assets/suit1.jpeg" alt="Header Image" style="height: 200px; margin-right: 10px; border-radius: 8px;">
-    <img src="./assets/suit2.jpeg" alt="Header Image" style="height: 200px; margin-right: 10px; border-radius: 8px;">
-    <!-- Add more images from your assets folder following the same pattern -->
+  <div class="carousel-container">
+    <div class="carousel">
+      <img src="./assets/fam.jpeg" alt="Family Photo" class="carousel-image">
+      <img src="./assets/grad.jpeg" alt="Graduation Photo" class="carousel-image">
+      <img src="./assets/grad2.jpeg" alt="Graduation Photo 2" class="carousel-image">
+      <img src="./assets/grad3.jpeg" alt="Graduation Photo 3" class="carousel-image">
+      <img src="./assets/grad4.jpeg" alt="Graduation Photo 4" class="carousel-image">
+      <img src="./assets/suit1.jpeg" alt="Professional Photo" class="carousel-image">
+      <img src="./assets/suit2.jpeg" alt="Professional Photo 2" class="carousel-image">
+    </div>
   </div>
 </div>
 
 <style>
-.photo-scroll {
-  -webkit-overflow-scrolling: touch;
-  scrollbar-width: none;  /* Firefox */
+.carousel-container {
+  width: 100%;
+  max-width: 1200px;
+  height: 400px;
+  overflow: hidden;
+  position: relative;
+  margin: 20px auto;
 }
 
-.photo-scroll::-webkit-scrollbar {
-  display: none;  /* Chrome, Safari, Edge */
+.carousel {
+  display: flex;
+  width: max-content;
+  animation: scroll 20s linear infinite;
 }
 
-.photo-scroll img {
-  transition: transform 0.3s ease;
+.carousel-image {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  margin-right: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
-.photo-scroll img:hover {
-  transform: scale(1.05);
+.carousel:hover {
+  animation-play-state: paused;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-400px * 4)); /* Adjust based on number of images */
+  }
 }
 </style>
 
@@ -141,6 +177,6 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 <div align="center">
   <img src="https://img.shields.io/badge/Thanks_for_visiting!-🚀-blue" alt="Thanks Badge"/>
   <p>Let's build something amazing together! 💻</p>
+  <p>Feel free to reach out if you have any questions or want to collaborate! Let's build something amazing together! 🚀</p>
 </div>
 
-Feel free to reach out if you have any questions or want to collaborate! Let's build something amazing together! 🚀
