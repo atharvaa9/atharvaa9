@@ -75,9 +75,11 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 - Check out my contributions to various projects on GitHub! I love collaborating and enhancing open-source software.
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharvaa9&show_icons=true&hide_title=true&count_private=true&theme=radical)
+(![atharvaa9's Stats](https://github-readme-stats.vercel.app/api?username=atharvaa9&theme=vue-dark&show_icons=true&hide_border=true&count_private=true))
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvaa9&layout=compact&theme=radical)
+![atharvaa9's Streak](https://github-readme-streak-stats.herokuapp.com/?user=atharvaa9&theme=vue-dark&hide_border=true)
+
+![atharvaa9's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvaa9&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### 🛠️ Tools & Technologies
 - **Frontend**: React.js, Redux, Bootstrap, Tailwind CSS
