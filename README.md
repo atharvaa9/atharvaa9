@@ -120,18 +120,10 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 
 ### 📸 Photo Gallery
 <div align="center">
-  <p float="left"> 
-    <img src="./assets/suit2.jpeg" width="200" />
-    <img src="./assets/grad.jpeg" width="200" style="margin-right: 10px" />
-    <img src="./assets/grad2.jpeg" width="200" style="margin-right: 10px" />
-  </p>
   <p float="left">
-    <img src="./assets/grad3.jpeg" width="200" style="margin-right: 10px" />
+    <img src="./assets/grad2.jpeg" width="200" style="margin-right: 10px" />
     <img src="./assets/grad4.jpeg" width="200" style="margin-right: 10px" />
     <img src="./assets/suit1.jpeg" width="200" style="margin-right: 10px" />
-  </p>
-  <p float="left">
-    <img src="./assets/fam.jpeg" width="200" style="margin-right: 10px" />
   </p>
 </div>
 
