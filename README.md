@@ -62,11 +62,10 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 - Spearheaded third-party payment integration with Stripe, processing over 1,000 daily transactions securely.
 
 ### 🚀 Project Experience
--**Apology Alchemist: AI-Powered Message Generator**
+- **Apology Alchemist: AI-Powered Message Generator**
   -Engineered a full-stack application using Next.js 13 and Firebase, enabling AI-powered apology message generation with a 90% user satisfaction rate 🤖.
   -Implemented secure message sharing system with unique URLs, achieving 100% delivery success rate 🔐.
   -Integrated Google AI for intelligent message generation, reducing message creation time by 70% ⚡.
-
 
 - **Talent Hunt: A Job Application System**
   - Enhanced user experience and increased job seeker engagement by 40% using React ⚛️.
