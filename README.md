@@ -11,7 +11,7 @@
   <a href="mailto:dev.atharvaparte@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://portfolio-atharva-parte.vercel.app/">
+  <a href="https://devatharvaparte.com/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
